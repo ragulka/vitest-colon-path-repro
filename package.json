@@ -1,0 +1,14 @@
+{
+  "name": "vitest-colon-path-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "devDependencies": {
+    "happy-dom": "20.11.2",
+    "jsdom": "30.1.1",
+    "vite": "8.2.1",
+    "vitest": "5.0.3"
+  }
+}
